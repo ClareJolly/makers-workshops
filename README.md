@@ -1,6 +1,6 @@
 # Makers workshops
 
-Various Notes from Makers Apprenticeships workshops and other learning during the course
+My personal notes from Makers Apprenticeships workshops and other learning during the course
 
 - Week 1 - Test Driven Development (TDD)
 - Week 2 - Object Oriented Programming (OOP)
